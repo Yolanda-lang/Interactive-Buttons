@@ -1,0 +1,23 @@
+﻿body {
+
+    background: blue;
+    color: white;
+
+}
+
+
+.ImageBusiness {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	height: 92px;
+    width: 150px;
+    }
+
+ .ImageBusinessPP {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+    }

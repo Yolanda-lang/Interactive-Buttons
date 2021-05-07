@@ -95,6 +95,7 @@
     <Content Include="Botones.html" />
     <Content Include="Botones\EMPTY.png" />
     <Content Include="Botones\EMPTYH.png" />
+    <Content Include="main.css" />
     <Content Include="Styles\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
