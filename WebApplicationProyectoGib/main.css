@@ -1,10 +1,15 @@
 ﻿body {
 
-    background: blue;
-    color: white;
+    background: white;
+    color: blue;
 
 }
 
+.tablebuttons
+{
+    width:50%;
+    border:none;
+}
 
 .ImageBusiness {
 	border-top-style: none;
@@ -21,3 +26,27 @@
 	border-bottom-style: none;
 	border-left-style: none;
     }
+
+  .Myheader {
+     background: gainsboro;
+     font-size: 24px;
+     text-align:center;
+     padding: 10px 0;
+     color: black;
+     top: 0;
+     left: 0;
+     width: 50%;
+     font-weight:bold;
+     }
+    
+   .button_text {
+     font-size: 24px;
+     text-align:center;
+     padding: 10px 0;
+     color: black;
+     }
+    
+    .cell_text {
+     text-align:center;
+     padding: 10px 0;
+     }
