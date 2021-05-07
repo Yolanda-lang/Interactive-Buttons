@@ -1,0 +1,8 @@
+C:\Users\epybg\OneDrive - Cepsa\000000000000  WORKING IN\1 COURSES\GIT Y GITHUB\Crehana\WebApplicationProyectoGib\WebApplicationProyectoGib\bin\WebApplicationProyectoGib.dll
+C:\Users\epybg\OneDrive - Cepsa\000000000000  WORKING IN\1 COURSES\GIT Y GITHUB\Crehana\WebApplicationProyectoGib\WebApplicationProyectoGib\bin\WebApplicationProyectoGib.pdb
+C:\Users\epybg\OneDrive - Cepsa\000000000000  WORKING IN\1 COURSES\GIT Y GITHUB\Crehana\WebApplicationProyectoGib\WebApplicationProyectoGib\bin\WebApplicationProyectoGib.xml
+C:\Users\epybg\OneDrive - Cepsa\000000000000  WORKING IN\1 COURSES\GIT Y GITHUB\Crehana\WebApplicationProyectoGib\WebApplicationProyectoGib\obj\Debug\WebApplicationProyectoGib.Resources.resources
+C:\Users\epybg\OneDrive - Cepsa\000000000000  WORKING IN\1 COURSES\GIT Y GITHUB\Crehana\WebApplicationProyectoGib\WebApplicationProyectoGib\obj\Debug\WebApplicationProyectoGib.vbproj.GenerateResource.Cache
+C:\Users\epybg\OneDrive - Cepsa\000000000000  WORKING IN\1 COURSES\GIT Y GITHUB\Crehana\WebApplicationProyectoGib\WebApplicationProyectoGib\obj\Debug\WebApplicationProyectoGib.dll
+C:\Users\epybg\OneDrive - Cepsa\000000000000  WORKING IN\1 COURSES\GIT Y GITHUB\Crehana\WebApplicationProyectoGib\WebApplicationProyectoGib\obj\Debug\WebApplicationProyectoGib.xml
+C:\Users\epybg\OneDrive - Cepsa\000000000000  WORKING IN\1 COURSES\GIT Y GITHUB\Crehana\WebApplicationProyectoGib\WebApplicationProyectoGib\obj\Debug\WebApplicationProyectoGib.pdb
